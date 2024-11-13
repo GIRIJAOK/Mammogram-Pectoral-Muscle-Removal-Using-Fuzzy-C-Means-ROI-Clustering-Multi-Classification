@@ -54,4 +54,4 @@ The following datasets were used:
 
 1. Pre-process the images using the fuzzy filtering and histogram equalization steps.
 2. Apply the enthalpy-based fuzzy c-means ROI clustering.
-3. Run the MS-CNN classifier.
+3. Run the MSV-CNN classifier.
