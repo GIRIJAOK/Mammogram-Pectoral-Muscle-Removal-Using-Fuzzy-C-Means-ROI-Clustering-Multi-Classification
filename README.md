@@ -1,6 +1,6 @@
 # Mammogram Pectoral Muscle Removal Using Fuzzy C-Means ROI Clustering Multi Classification
 
-This repository contains the implementation for a mammogram classification model that aids in breast cancer detection by classifying mammograms as normal, malignant, or benign. The model uses an enthalpy-based fuzzy c-means ROI clustering approach for pectoral muscle removal, followed by a Median Support Value-Based Convolutional Neural Network (MS-CNN) for accurate classification of mammogram abnormalities.
+This repository contains the implementation for a mammogram classification model that aids in breast cancer detection by classifying mammograms as normal, malignant, or benign. The model uses an enthalpy-based fuzzy c-means ROI clustering approach for pectoral muscle removal, followed by a Median Support Value-Based Convolutional Neural Network (MSV-CNN) for accurate classification of mammogram abnormalities.
 
 ## Table of Contents
 
